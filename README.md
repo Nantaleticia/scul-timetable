@@ -30,26 +30,6 @@ It demonstrates:
 - **CSS3**
 - **Markdown** (for this README file)
 
----
-
-## 🚀 How to Run the Project
-
-1. Make sure both `timetable.html` and `README.md` are in the same folder.
-2. Double-click on the `timetable.html` file.
-3. It will open in your **web browser** (e.g., Chrome, Edge, Firefox).
-4. You should see a well-formatted timetable similar to the sample image provided in the exercise.
-
----
-
-## 🧰 Learning Objectives
-
-By completing this exercise, you will learn to:
-- Create and structure tables in HTML.
-- Use attributes like `rowspan` and `colspan`.
-- Style tables using simple CSS rules.
-- Write clear documentation for your projects.
-
----
 
 ## 👩🏽‍💻 Author
 **Nantale Leticia Hope**    
@@ -58,4 +38,5 @@ By completing this exercise, you will learn to:
 
 ## 📜 License
 This project is for educational purposes only and may be freely used for teaching and learning.
+
 
