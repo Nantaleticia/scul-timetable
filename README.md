@@ -1,0 +1,2 @@
+# scul-timetable
+timetable exercise
